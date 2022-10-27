@@ -24,10 +24,8 @@ civic_warfel = {
 	}
 	random_weight = { base = 5 }
 	modifier = {
-		ship_fire_rate_mult = 0.33
-		army_damage_mult = 0.33
-		edicts_upkeep_mult = -0.10
 		country_war_exhaustion_mult = -0.1
+		country_claim_influence_cost_mult = -0.30
 
 	}
 }
