@@ -1,4 +1,4 @@
-civic_warfel = {
+civic_conquerors = {
 	potential = {
 		ethics = { NOT = { value = ethic_gestalt_consciousness } }
 		authority = { NOT = { value = auth_corporate } }
@@ -24,8 +24,7 @@ civic_warfel = {
 	}
 	random_weight = { base = 5 }
 	modifier = {
-		country_war_exhaustion_mult = -0.1
-		country_claim_influence_cost_mult = -0.30
+		country_claim_influence_cost_mult = -0.40
 
 	}
 }
