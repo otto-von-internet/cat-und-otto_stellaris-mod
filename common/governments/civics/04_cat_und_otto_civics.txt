@@ -28,3 +28,14 @@ civic_conquerors = {
 
 	}
 }
+
+civic_encourage_breeding = {
+	potential = {
+		ethics = { NOT = { value = ethic_gestalt_consciousness } }
+		authority = { NOT = { value = auth_corporate } }
+	}
+	random_weight = { base = 5 }
+	modifier = {
+		pop_growth_speed = 0.05
+	}
+}
