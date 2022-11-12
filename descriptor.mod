@@ -1,6 +1,6 @@
-version="0.5.0"
+version="0.5.1"
 tags={
 	"Gameplay"
 }
-name="cat und otto"
+name="cat und otto mod"
 supported_version="3.5.*"
